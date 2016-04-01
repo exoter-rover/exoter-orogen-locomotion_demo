@@ -5,6 +5,8 @@
 
 #include "locomotion_demo/TaskBase.hpp"
 
+#include<base/commands/Motion2D.hpp>
+
 namespace locomotion_demo {
 
     /*! \class Task 
