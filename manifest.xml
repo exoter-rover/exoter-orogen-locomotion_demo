@@ -13,8 +13,8 @@
   <depend package="dummy-dependency-n-1" />
   <depend package="dummy-dependency-n" />
   -->
-  <depend package="control/locomotion_control" />
-  <depend package="drivers/platform_driver" />
+  <depend package="control/orogen/locomotion_control" />
+  <depend package="drivers/orogen/platform_driver" />
   <depend package="base/orogen/types" />
 
 </package>
